@@ -1,9 +1,9 @@
-class Test
+class Test1
 {
     private int x= 10;
     public void setX(int x)
     {
-        x = x;
+        this.x = x;
         System.out.println(x);
     }
 }
