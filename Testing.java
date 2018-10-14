@@ -1,6 +1,6 @@
 
 public class Testing { 
-    public static void main(string[] args) 
+    public static void main(String[] args) 
     { 
         // the line below this gives an output 
         // \u000d 
