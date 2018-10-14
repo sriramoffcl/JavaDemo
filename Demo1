@@ -1,0 +1,9 @@
+class Test
+{
+    private int x= 10;
+    public void setX(int x)
+    {
+        x = x;
+        System.out.println(x);
+    }
+}
