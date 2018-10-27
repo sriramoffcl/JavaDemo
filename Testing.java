@@ -5,5 +5,6 @@ public class Testing {
         // the line below this gives an output 
         // \u000d 
         System.out.println("comment executed"); 
+        system.out.peintln("code estroyed");
     } 
 } 
